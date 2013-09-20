@@ -1,4 +1,27 @@
 i3 Berlin Frame:
 ---------------
 
-image:i3_berlin_frame.svg[width=400]
+The Frame is made of 6mm Aluminium or Acryl and can be Lasercut or Milled, there are some holes +
+that don't pass all the way through to hold the y linear rods. Further there are threaded and non +
+threaded holes, the table below explains the differences by color. +
+
+
+.Windtrainer workouts
+[width="80%",cols="^2,^2,^2,^2,10",options="header"]
+|=========================================================
+|Color |Diameter |Threaded |Thruehole | Notes
+
+|Green | M3 | yes | yes |
+threded holes to screw parts on
+
+|Red | 8mm | no | no | 
+this hole is 5mm depp and holds the Y smoth rods
+
+|Magenta | 3.5mm | no | yes |
+unthreade holes to screw parts on / some to fix cable trees
+
+|Black | none | no | yes |
+this is the frame outline, so cut it all, consists of 4 seperate parts
+
+5+^| image:i3_berlin_frame.png[width="80%"]
+|=========================================================
