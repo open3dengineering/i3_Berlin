@@ -6,7 +6,7 @@ BdV = Bram de Vries
 PRINTED PARTS
 Design changes needed in the printed parts are:
 
-- [ ] X-Motor + X-Right	- The LM8UU click in too heavy. Reduce the click. 
+- [ ] X-Motor + X-Right The LM8UU click in too heavy. Reduce the click. 
 - [ ] X-Motor + X-Right	- The clamp should be openable for bearing exchange
 
 - [ ] X-Carriage	- no magnet slot: put it in
