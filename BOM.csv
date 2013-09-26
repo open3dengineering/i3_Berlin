@@ -1,0 +1,82 @@
+Section,Part,QTY,Description,Reseller,Product URL,Unit Price,Total
+Electronics,Hall-O-Endstop,3,endstop,RepRapDiscount,http://www.reprapdiscount.com/electronics/18-set-hall-endstops3-pieces.html#,8.0,24.0
+Electronics,HeatBed-Mk2a,1,none,RepRapDiscount,http://www.reprapdiscount.com/electronics/14-mk2b-dual-power-heated-bed.html#,26.0,26.0
+Electronics,LCD,1,GLCD,RepRapDiscount,http://www.reprapdiscount.com/home/34-full-graphic-smart-lcd-controller.html#,60.0,60.0
+Electronics,PowerSupply Sopudar SPD-350W,1,PSU,Ebay,search LED PSU,30.0,30.0
+Electronics,RAMPS1 4,1,main controller,RepRapDiscount,http://www.reprapdiscount.com/electronics/12-ramps-14.html#,60.0,60.0
+Electronics,SY42STH47-1684B,4,stepper Nema 17,ReprapWorld,http://reprapworld.com/?products_details&products_id=94&cPath=1614,12.5,50.0
+,,,,,,Sub Total,250.0
+Extruder,FilamentDrivePulley,1,filament pully,2Engineers,http://www.2engineers.com/shop/driver-pulley-id-5mm/,7.0,7.0
+Extruder,GearedStepper 1/50,1,extruder stepper,2Engineers,http://www.2engineers.com/shop/geared150/,12.0,12.0
+Extruder,V-Struder 00,2,hotend,2Engineers,http://www.2engineers.com/shop/ceramic-hotend-chess-for-3-0mm-fillament/,25.0,50.0
+,,,,,,Sub Total,69.0
+Frame,Alu Back,1,small plate,Gemmel,none,0.0,0.0
+Frame,AluFront,1,small plate,Gemmel,none,0.0,0.0
+Frame,Plate XZ,1,big plate,Laydrop,none,90.0,90.0
+Frame,Y-Plate,1,bed plate,Laydrop,none,0.0,0.0
+,,,,,,Sub Total,90.0
+Nuts and Bolts,608ZZ,1,bearing,ReprapWorld,http://reprapworld.com/?products_details&products_id=24&cPath=1595_1596,0.25,0.25
+Nuts and Bolts,624ZZ,2,bearing,ReprapWorld,http://reprapworld.com/?products_details&products_id=23&cPath=1595_1596,0.25,0.5
+Nuts and Bolts,DIN 6331 M10,2,none,none,none,0.02,0.04
+Nuts and Bolts,LM8UU,10,bearing,ReprapWorld,http://reprapworld.com/?searchresults&cPath=1595_1596,1.0,10.0
+Nuts and Bolts,M10 Nut,12,none,none,none,0.2,2.4
+Nuts and Bolts,M10 x 370,2,none,none,none,0.0,0.0
+Nuts and Bolts,M3 Nyloc,27,none,none,none,0.0,0.0
+Nuts and Bolts,M3 Washer,5,none,none,none,0.0,0.0
+Nuts and Bolts,M3 x 10,28,none,none,none,0.0,0.0
+Nuts and Bolts,M3 x 16,18,none,none,none,0.0,0.0
+Nuts and Bolts,M3 x 25,5,none,none,none,0.0,0.0
+Nuts and Bolts,M4 x 10,2,none,none,none,0.0,0.0
+Nuts and Bolts,M5 Nut,2,none,none,none,0.0,0.0
+Nuts and Bolts,PulleyGT2-20,2,pully,RepRapDiscount,http://www.reprapdiscount.com/mechanics/53-3-gt2-belt-3-gt2-pulleys.html#,8.0,16.0
+Nuts and Bolts,Rampa RTL 036113,4,blind nut,none,none,0.0,0.0
+Nuts and Bolts,Sproing,3,none,none,none,0.0,0.0
+Nuts and Bolts,din125 M10,6,none,none,none,0.0,0.0
+,,,,,,Sub Total,29.19
+Printed parts,BeltGuiding,10,none,Laydrop,none,0.0,0.0
+Printed parts,Bowden Holder,2,none,Laydrop,none,0.0,0.0
+Printed parts,CableHolder1,2,none,Laydrop,none,0.0,0.0
+Printed parts,Compact-Extruder O3D Ceramic (Repaired),2,none,Laydrop,none,0.0,0.0
+Printed parts,DisplayCover,1,none,Laydrop,none,0.0,0.0
+Printed parts,EndstopCover,6,none,Laydrop,none,0.0,0.0
+Printed parts,ExtruderTest,1,none,Laydrop,none,0.0,0.0
+Printed parts,HotEndClamp 01,1,none,Laydrop,none,0.0,0.0
+Printed parts,I3 Spool Holder,2,none,Laydrop,none,0.0,0.0
+Printed parts,M5 Top,3,none,none,none,0.0,0.0
+Printed parts,Power Supply Cover,1,none,Laydrop,none,0.0,0.0
+Printed parts,RAMPS Casing,2,none,Laydrop,none,0.0,0.0
+Printed parts,X-Carriage,3,none,Laydrop,none,0.0,0.0
+Printed parts,X-Idler,2,none,Laydrop,none,0.0,0.0
+Printed parts,X-Right,2,none,Laydrop,none,0.0,0.0
+Printed parts,X-Teeth,1,none,Laydrop,none,0.0,0.0
+Printed parts,XMotor,2,none,Laydrop,none,0.0,0.0
+Printed parts,Y-BackRight,4,none,Laydrop,none,0.0,0.0
+Printed parts,Y-Beltholder,2,none,Laydrop,none,0.0,0.0
+Printed parts,Y-ClampHookLeft,2,none,Laydrop,none,0.0,0.0
+Printed parts,Y-ClampHookRight,2,none,Laydrop,none,0.0,0.0
+Printed parts,Y-ClickClampL,2,none,Laydrop,none,0.0,0.0
+Printed parts,Y-ClickClampR,2,none,Laydrop,none,0.0,0.0
+Printed parts,Y-FrontLeft,2,none,Laydrop,none,0.0,0.0
+Printed parts,Y-FrontRight,2,none,Laydrop,none,0.0,0.0
+Printed parts,Y-MiddleLeft,1,none,Laydrop,none,0.0,0.0
+Printed parts,Y-MiddleRight,3,none,Laydrop,none,0.0,0.0
+Printed parts,Y-MotorHolder,2,none,Laydrop,none,0.0,0.0
+Printed parts,Z-BottomLeft,1,none,Laydrop,none,0.0,0.0
+Printed parts,Z-BottomRight,4,none,Laydrop,none,0.0,0.0
+Printed parts,Z-EndStopMount,1,none,Laydrop,none,0.0,0.0
+Printed parts,Z-TopLeft,2,none,Laydrop,none,0.0,0.0
+Printed parts,Z-TopRight,2,none,Laydrop,none,0.0,0.0
+,,,,,,Sub Total,0.0
+Rods,8 x 320,2,smot rod,Gemmel,none,0.5,1.0
+Rods,8 x 350,1,smot rod,Gemmel,none,0.5,0.5
+Rods,8 x 380,2,smot rod,Gemmel,none,0.5,1.0
+Rods,8 x 426,1,smot rod,Gemmel,none,0.5,0.5
+Rods,M5x296,2,threaded rod,none,none,0.0,0.0
+,,,,,,Sub Total,3.0
+Stuff,Ikea Mirror,4,mirror,Ikea,http://www.ikea.com/de/de/catalog/products/60074007/,1.5,6.0
+Stuff,Mauly,4,clamps,none,none,0.0,0.0
+Stuff,TimingBeltGT2 X,1,gt2 belt,RepRapDiscount,http://www.reprapdiscount.com/mechanics/53-3-gt2-belt-3-gt2-pulleys.html#,5.0,5.0
+Stuff,Z Motor Coupler,2,sylicon tube,Hardware Store,none,0.0,0.0
+Stuff,ZipTie,2,none,Hardware Store,none,0.0,0.0
+,,,,,,Sub Total,11.0
+,,,,,,Total,452.19
