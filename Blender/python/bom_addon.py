@@ -92,22 +92,23 @@ def write_bom(self, context):
     # get sections and fill them with objects and object values
     sections = get_sections(self, context)
     for sect in sections:
-        for ob in _objects:
-            name = ob.name.split('.')[0]
-            if ob.type == 'MESH' and ob.bom_section == sect[1]:
+        if sect != 'nosection':
+            for ob in _objects:
+                name = ob.name.split('.')[0]
+                if ob.type == 'MESH' and ob.bom_section == sect[1]:
                 
-                objects[sect[1]][name]['Section'] = sect[1]
-                objects[sect[1]][name]['Part'] = name 
-                try:
-                    objects[sect[1]][name]['QTY'] += 1
-                except:
-                    objects[sect[1]][name]['QTY'] = 1
-                objects[sect[1]][name]['Description'] = bpy.data.objects[name].bom_desc
-                objects[sect[1]][name]['Reseller'] = bpy.data.objects[name].bom_reseller
-                objects[sect[1]][name]['Product URL'] = bpy.data.objects[name].bom_product_url
-                objects[sect[1]][name]['Unit Price'] = round(bpy.data.objects[name].bom_price, 2)
-                total = objects[sect[1]][name]['Unit Price'] * objects[sect[1]][name]['QTY']
-                objects[sect[1]][name]['Total'] = round(total,2)
+                    objects[sect[1]][name]['Section'] = sect[1]
+                    objects[sect[1]][name]['Part'] = name 
+                    try:
+                        objects[sect[1]][name]['QTY'] += 1
+                    except:
+                        objects[sect[1]][name]['QTY'] = 1
+                    objects[sect[1]][name]['Description'] = bpy.data.objects[name].bom_desc
+                    objects[sect[1]][name]['Reseller'] = bpy.data.objects[name].bom_reseller
+                    objects[sect[1]][name]['Product URL'] = bpy.data.objects[name].bom_product_url
+                    objects[sect[1]][name]['Unit Price'] = round(bpy.data.objects[name].bom_price, 2)
+                    total = objects[sect[1]][name]['Unit Price'] * objects[sect[1]][name]['QTY']
+                    objects[sect[1]][name]['Total'] = round(total,2)
                 
                              
 
