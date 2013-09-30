@@ -35,8 +35,8 @@ class OBJECT_OT_UNSET_KEYFRAME_HIDE_RENDER(bpy.types.Operator):
             if( ob.select == True):
                 ob.hide = False
                 ob.hide_render = False 
-                ob.keyframe_delete(data_path='hide')
-                ob.keyframe_delete(data_path='hide_render')    
+                ob.keyframe_insert(data_path='hide')
+                ob.keyframe_insert(data_path='hide_render')    
         return{'FINISHED'}    
     
 
