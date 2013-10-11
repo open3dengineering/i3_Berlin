@@ -1,0 +1,94 @@
+Section,Part,QTY,Description,Reseller,Product URL,Unit Price,Total
+Bearings,608ZZ,1,608ZZ Bearing,RepRapWorld,http://reprapworld.com/?products_details&products_id=24&cPath=1595_1596,0.25,0.25
+Bearings,624ZZ,2,624ZZ Bearing,RepRapWorld,http://reprapworld.com/?products_details&products_id=23&cPath=1595_1596,0.25,0.5
+Bearings,LM8UU,10,LM8UU Linear Bearing,RepRapWorld,http://reprapworld.com/?products_details&products_id=151&cPath=1655,1.0,10.0
+,,,,,,Sub Total,10.75
+Cables and Electronics,Ferrule Black,6,"Aderendhülse 1,5 mm Schwarz",NetShopPro,http://www.ebay.de/itm/Aderendhulsen-1-5mm-isoliert-schwarz-100-Stuck-/290578184120?pt=Kabel_Zubeh%C3%B6r&hash=item43a7cf37b8,0.1,0.6
+Cables and Electronics,Ferrule White,2,"Aderendhülse 0,5mm Weiß",NetShopPro,http://www.ebay.de/itm/Aderendhulsen-0-5mm-isoliert-weis-100-Stuck-/230635619304?pt=Kabel_Zubeh%C3%B6r&hash=item35b2f443e8,0.75,1.5
+Cables and Electronics,Hall-O-Endstop,3,Hall-O Endstop,Fabber Parts,http://fabber-parts.de/shop/index.php?a=128&lang=eng,2.95,8.85
+Cables and Electronics,HeatBed Mk2a,1,HeatBed Mk2B,Fabber Parts,http://fabber-parts.de/shop/index.php?a=114&lang=eng,28.9,28.9
+Cables and Electronics,HeatBedThermistor,1,Heat Bed Thermistor 100K,Fabber Parts,http://fabber-parts.de/shop/index.php?a=114&lang=eng,0.0,0.0
+Cables and Electronics,HeatCardridge,1,Heat Cardridge 12V 30W,2Engineers,http://www.2engineers.com/shop/catridge-heater-30w12v/,3.5,3.5
+Cables and Electronics,LCD,1,Full Graphic LCD Controller,Fabber Parts,http://fabber-parts.de/shop/index.php?a=184&lang=eng,49.0,49.0
+Cables and Electronics,Ledpowersupply,1,LED Power Supply 350W,Ebay,http://www.ebay.de/itm/Trafo-Netzteil-Treiber-Driver-Netzadapter-LED-Streifen-Stripe-100W-400W-DC-12V-/151048489916?pt=Bauteile&var=450176384884&hash=item232b310bbc,24.99,24.99
+Cables and Electronics,RAMPS1 4,1,RAMPS 1.4,Fabber Parts,http://fabber-parts.de/shop/index.php?a=129&lang=eng,99.0,99.0
+,,,,,,Sub Total,216.34
+Extruder,Ceramic J-Head,2,Ceramic J-Head,none,none,0.0,0.0
+Extruder,FilamentDrivePulley,1,Filament Driver Pulley,2Engineers,http://www.2engineers.com/shop/driver-pulley-id-5mm/,9.0,9.0
+Extruder,GearedStepper 1/50,1,Geared Stepper Motor 1:50,2Engineers,http://www.2engineers.com/shop/geared150/,15.0,15.0
+Extruder,Thermistor Nozzle,1,Glass Thermistor 100K,2Engineers,http://www.2engineers.com/shop/ceramic-hotend-chess-for-1-75mm-fillament/,0.0,0.0
+,,,,,,Sub Total,24.0
+Frame,Alu Back,1,Aluminium Back Plate,Laydrop,www.laydrop.com,0.0,0.0
+Frame,AluFront,1,Aluminium Front Plate,Laydrop,www.laydrop.com,0.0,0.0
+Frame,Plate XZ,1,Plate XZ,Laydrop,www.laydrop.com,120.0,120.0
+Frame,Y-Plate,1,Y-Plate,Laydrop,www.laydrop.com,0.0,0.0
+,,,,,,Sub Total,120.0
+Motion,PulleyGT2-20,2,Pulley GT2 20 Teeth Aluminium,Fabber Parts,http://fabber-parts.de/shop/index.php?a=149&lang=eng,2.9,5.8
+Motion,SY42STH47-1684B,4,Nema 17 Stepper Motor,RepRapWorld,http://reprapworld.com/?products_details&products_id=94&cPath=1614,15.12,60.48
+Motion,TimingBeltGT2 X,1,GT2 Timing Belt 6mm x 1m,Fabber Parts,http://fabber-parts.de/shop/index.php?k=11&lang=eng,8.9,8.9
+Motion,TimingBeltGT2 Y,1,GT2 Timing Belt 6mm x 1m,Fabber Parts,http://fabber-parts.de/shop/index.php?a=155&lang=eng,8.9,8.9
+,,,,,,Sub Total,84.08
+Nuts and Bolts,M10 Flange Nut,2,M10 DIN 6923 Galvanized,Wegert Seder,http://www.wegertseder.com/index_prod.asp,1.01,2.02
+Nuts and Bolts,M10 Nut,12,DIN 934 M10 Stahl 8 Galvanized,Wegert Seder,http://www.wegertseder.com/index_prod.asp,0.32,3.84
+Nuts and Bolts,M10 Washer ,8,DIN 125 A10.5 Stahl Verzinkt ,Wegert Seder,http://www.wegertseder.com/index_prod.asp,0.35,2.8
+Nuts and Bolts,M3 Nyloc,28,DIN 986 M3 Stahl8 Verzinkt,Wegert Seder,http://www.wegertseder.com/index_prod.asp,0.05,1.4
+Nuts and Bolts,M3 Washer,5,"DIN 125 A3,2 Stahl Verzinkt",Wegert Seder,http://www.wegertseder.com/index_prod.asp,0.1,0.5
+Nuts and Bolts,M3 x 10,28,"DIN 912 M3 x 10 Stahl 8,8 Verzinkt",Wegert Seder,http://www.wegertseder.com/index_prod.asp,0.05,1.4
+Nuts and Bolts,M3 x 16,17,DIN 912 M3 x 16 Stahl 8.8 Verzinkt,Wegert Seder,http://www.wegertseder.com/index_prod.asp,0.1,1.7
+Nuts and Bolts,M3 x 25,8,DIN 912 M3 x 25 Stahl 8.8 Verzinkt,Wegert Seder,http://www.wegertseder.com/index_prod.asp,0.1,0.8
+Nuts and Bolts,M4 x 10,4,none,none,none,0.0,0.0
+Nuts and Bolts,M4 x 25,1,DIN 912 M4 x 25 Galvanized,Wegert Seder,none,0.4,0.4
+Nuts and Bolts,M5 CapNut,1,DIN 1587 M5 Stahl Verzinkt,Wegert Seder,http://www.wegertseder.com/index_prod.asp,3.59,3.59
+Nuts and Bolts,M5 Nut,2,DIN 934 M5 Stainless Steel A2,Wegert Seder,http://www.wegertseder.com/index_prod.asp,1.1,2.2
+Nuts and Bolts,Nut M4,1,DIN 934 M4 Stahl 8 Galvanized,Wegert Seder,http://www.wegertseder.com/index_prod.asp,1.55,1.55
+Nuts and Bolts,Rampa RTL 036113,4,Round Nut RTL 036113,Rampa,https://shop.rampa.com/cgi-bin/rampashop.pl?id=1869&page=&pre=&gattung2=&typ2=&details=0&clid=Rundmuttern&scrolly=0&gattung=Rundmuttern&typ=RTL&antrieb=&material=&oberflaeche=&laenge=&gewinde=&durchmesser=&sextid=&mat036513=26142&mat03661001=22260&mat03661201=22261&mat03661504=22265&mat03661801=26162&mat03661601=22268&mat03662001=22269&mat03681405=22270&mat03681605=22271&mat036820061=22306&mat036,6.2,24.8
+Nuts and Bolts,Spring Washer M10,8,DIN 127 B10 Federstahl Verzinkt ,Wegert Seder,http://www.wegertseder.com/index_prod.asp,0.37,2.96
+Nuts and Bolts,Washer M5,1,"DIN 125 M5 A 5,3 Stahl Verzinkt",Wegert Seder,http://www.wegertseder.com/index_prod.asp,2.14,2.14
+,,,,,,Sub Total,52.1
+Other,Ikea Mirror,4,Ikea Sörli,Ikea,http://www.ikea.com/de/de/catalog/products/60074007/,4.99,19.96
+Other,Mauly,8,Mauly Paper Clamp 30mm,Office B2B,http://www.officeb2b.de/DETAILS-MAUL-Briefklemmer-aus-Metall%2C-Farbe%3A-nickel%2C-Breite%3A-30-mm-Z1006050.html,0.69,5.52
+Other,Spring,3,Spring 		RDF-1363,Schweizer FedernTechnik,http://www.schweizer-federnshop.de/product_info.php/info/p1246_RDF-1363.html,2.84,8.52
+Other,ThermistorSilicon,1,Heat Risistant Silicon,Ebay,http://www.ebay.de/itm/16-63-L-0-3L-Henkel-Sista-Hochtemperatur-Silikon-rot-Silicon-Backofen-Kamin-/200901026864?pt=DE_Heimwerker_Baustoffe&var=500146985428&hash=item2ec6a26430,4.99,4.99
+Other,Z Motor Coupler,2,PVC Hose 5mm Green,Bauhaus,none,0.2,0.4
+Other,ZipTie,3,"Ziptie 2,5mm x 100mm Black",Conrad,http://www.ebay.de/itm/Kabelbinder-100x2-5mm-200St-Polyamid-6-6-Farbe-wahlen-/290569011270?pt=Kabel_Zubeh%C3%B6r&var=&hash=item895fdd475b,0.1,0.3
+,,,,,,Sub Total,39.69
+Printed Parts,AdjustKnob,7,Adjust Knob,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,BeltGuiding,8,Belt Guiding,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,CableHolder,1,none,none,none,0.0,0.0
+Printed Parts,CableHolderBackPlate,1,CableHolderBackPlate,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,DisplayCover,1,none,none,none,0.0,0.0
+Printed Parts,EndstopCover,6,EndStop Cover,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,I3 Spool Holder,2,I3 Spool Holder,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,M5 Top,4,M5 Top,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Power Supply Cover,2,Power Supply Cover,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,RAMPS Casing,3,RAMPS Casing,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,X-Carriage,3,X-Carriage,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,X-Idler,2,X-Idler,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,X-Right,4,X-Right,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,X-Teeth,1,X-Teeth,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,XMotor,2,XMotor,Laydrop,www.laydrop.com,120.0,240.0
+Printed Parts,Y-BackRight,4,Y Back Right Corner,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Y-Beltholder,2,Y-Beltholder,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Y-ClampHookLeft,2,Y Clamp Hook Left,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Y-ClampHookRight,2,Y-ClampHookRight,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Y-ClickClampL,2,Y-ClickClamp Left,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Y-ClickClampR,2,Y-ClickClamp Right,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Y-FrontLeft,2,Y-FrontLeft,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Y-FrontRight,2,Y-FrontRight,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Y-MiddleLeft,2,Y-MiddleLeft,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Y-MiddleRight,2,Y-MiddleRight,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Y-MotorHolder,2,Y-MotorHolder,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Z-BottomLeft,1,Z-BottomLeft,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Z-BottomRight,3,Z-BottomRight,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Z-EndStopMount,2,Z-EndStopMount,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Z-TopLeft,2,Z-TopLeft,Laydrop,www.laydrop.com,0.0,0.0
+Printed Parts,Z-TopRight,2,Z-TopRight,Laydrop,www.laydrop.com,0.0,0.0
+,,,,,,Sub Total,240.0
+Rods,8 x 320,2,8 x 320 Smooth Rod 1.2210 - 115 Cr V 3,CNC Shop,http://www.cncshop.at/index.php,5.28,10.56
+Rods,8 x 350,1,8 x 350 Smooth Rod 1.2210 - 115 Cr V 3,CNC Shop,http://www.cncshop.at/index.php?a=4029,5.28,5.28
+Rods,8 x 380,2,8 x 380 Smooth Rod 1.2210 - 115 Cr V 3,CNC Shop,http://www.cncshop.at/index.php,5.28,10.56
+Rods,8 x 426,1,8 x 426 Smooth Rod 1.2210 - 115 Cr V 3,CNC Shop,http://www.cncshop.at/index.php?a=4029,6.6,6.6
+Rods,M10 x 382,2,M10 x 382 Steel Galvanized,Bauhaus,none,0.7,1.4
+Rods,M5x310,2,M5 x 310 Threaded Rod A2 Stainless steel,Bauhaus,none,0.9,1.8
+,,,,,,Sub Total,36.2
+,,,,,,Total,823.16
