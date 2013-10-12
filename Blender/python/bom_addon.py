@@ -6,11 +6,24 @@
 # for Open Hardware Projects. Use as is, please notify  
 # me about any enhacements you make to this code.
 
+from __future__ import with_statement
+import contextlib
+try:
+    from urllib.parse import urlencode
+except ImportError:
+    from urllib import urlencode
+try:
+    from urllib.request import urlopen
+except ImportError:
+    from urllib2 import urlopen
+import sys
+
 import csv
 import collections
 import bpy
 from bpy.props import *
 from bpy.types import PropertyGroup
+
 
 #############################
 # globals
@@ -21,6 +34,12 @@ _objects = bpy.data.objects
 #############################
 # helper functions
 
+# create tiny url
+def make_tinyurl(url):
+    request_url = ('http://tinyurl.com/api-create.php?' + 
+    urlencode({'url':url}))
+    with contextlib.closing(urlopen(request_url)) as response:
+        return response.read().decode('utf-8')
 
 # get sections
 def get_sections(self, context):
@@ -92,11 +111,11 @@ def write_bom(self, context):
     # get sections and fill them with objects and object values
     sections = get_sections(self, context)
     for sect in sections:
-        if sect != 'nosection':
+        if sect[1] != 'nosection':
             for ob in _objects:
                 name = ob.name.split('.')[0]
                 if ob.type == 'MESH' and ob.bom_section == sect[1]:
-                
+       
                     objects[sect[1]][name]['Section'] = sect[1]
                     objects[sect[1]][name]['Part'] = name 
                     try:
@@ -106,6 +125,7 @@ def write_bom(self, context):
                     objects[sect[1]][name]['Description'] = bpy.data.objects[name].bom_desc
                     objects[sect[1]][name]['Reseller'] = bpy.data.objects[name].bom_reseller
                     objects[sect[1]][name]['Product URL'] = bpy.data.objects[name].bom_product_url
+                    #print(make_tinyurl(bpy.data.objects[name].bom_product_url))
                     objects[sect[1]][name]['Unit Price'] = round(bpy.data.objects[name].bom_price, 2)
                     total = objects[sect[1]][name]['Unit Price'] * objects[sect[1]][name]['QTY']
                     objects[sect[1]][name]['Total'] = round(total,2)
@@ -125,7 +145,14 @@ def write_bom(self, context):
             for ob in sorted(objects[sect].keys()):
                 row = []
                 for field in fields:
-                    row.append(str(objects[sect][ob][field])) 
+                    if field == 'Product URL':
+                        tinyurl = make_tinyurl(objects[sect][ob][field])
+                        if tinyurl == 'Error':
+                            row.append(str(objects[sect][ob][field]))    
+                        else:        
+                            row.append(tinyurl)
+                    else:
+                        row.append(str(objects[sect][ob][field])) 
                 
                 sub_total += objects[sect][ob]['Total']
                 writer.writerow(row)
@@ -133,7 +160,7 @@ def write_bom(self, context):
             total += sub_total        
             writer.writerow(['', '', '', '', '', '', 'Sub Total', round(sub_total, 2)])    
     
-    # nosection comes last and is blaclisted for now
+    # nosection is blacklisted for now
     #sub_total = 0.0
     #for ob in sorted(objects['nosection'].keys()):
     #    row = []
