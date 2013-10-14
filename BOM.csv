@@ -9,11 +9,11 @@ Cables and Electronics,Hall-O-Endstop,3,Hall-O Endstop,Fabber Parts,http://tinyu
 Cables and Electronics,HeatBed Mk2a,1,HeatBed Mk2B,Fabber Parts,http://tinyurl.com/mlfo5hg,28.9,28.9
 Cables and Electronics,HeatBedThermistor,1,Heat Bed Thermistor 100K,Fabber Parts,http://tinyurl.com/mlfo5hg,0,0
 Cables and Electronics,HeatCardridge,1,Heat Cardridge 12V 30W,2Engineers,http://tinyurl.com/cg3qnkp,3.5,3.5
-Cables and Electronics,LCD,1,Full Graphic LCD Controller,Fabber Parts,http://tinyurl.com/k24bzmr,49,49
+Cables and Electronics,GLCD,1,Full Graphic LCD Controller,Fabber Parts,http://tinyurl.com/k24bzmr,49,49
 Cables and Electronics,Ledpowersupply,1,LED Power Supply 350W,Ebay,http://tinyurl.com/jwg2yzw,24.99,24.99
-Cables and Electronics,RAMPS1 4,1,RAMPS 1.4,Fabber Parts,http://tinyurl.com/mcc3je6,99,99
+Cables and Electronics,RAMPS 1.4,1,RAMPS 1.4,Fabber Parts,http://tinyurl.com/mcc3je6,99,99
 ,,,,,,Sub Total,216.74
-Extruder,Ceramic J-Head,1,Ceramic J-Head,2Engineers,http://tinyurl.com/a2o44m5,37,37
+Extruder,Ceramic Chess Hotend,1,Ceramic J-Head,2Engineers,http://tinyurl.com/a2o44m5,37,37
 Extruder,FilamentDrivePulley,1,Filament Driver Pulley,2Engineers,http://tinyurl.com/cjj8cre,9,9
 Extruder,GearedStepper 1/50,1,Geared Stepper Motor 1:50,2Engineers,http://tinyurl.com/kkmdsz7,15,15
 Extruder,Thermistor Nozzle,1,Glass Thermistor 100K,2Engineers,http://tinyurl.com/a2o44m5,0,0
