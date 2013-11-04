@@ -1,4 +1,4 @@
-Marlin Firmware for the O3DE-Prusa I3
+Marlin Firmware for the I3 Berlin
 =============
 
 This is a preconfigured Marlin Firmware for the O3DE-Prusa I3. 

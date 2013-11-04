@@ -1,4 +1,4 @@
-Firmware for the O3DE-Prusa I3
+Firmware for the I3 Berlin
 =============
 
 Please read the Instructions in the subseqent folder.
