@@ -6,7 +6,7 @@ that don't pass all the way through to hold the y linear rods. Further there are
 threaded holes, the table below explains the differences by color. +
 
 
-.Windtrainer workouts
+
 [width="80%",cols="^2,^2,^2,^2,10",options="header"]
 |=========================================================
 |Color |Diameter |Threaded |Thruehole | Notes
