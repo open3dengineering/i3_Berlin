@@ -22,6 +22,7 @@ Please isntall at least Cura 13.11.2 on your Platform OS
 
 
 Then copy all files in /CuraProfile to your coresponding settings folder, if you installed a newer version of Cura the folder named coresponds to your version.
+      
        - Windows c:\Programm Files\Cura_13.11.2\Cura\  ( Programm Files (x86)??)
        - Linux /home/<user>/.cura/13.11.2/
        - Mac /Users/<user>/.cura/13.11.2/ 	  
