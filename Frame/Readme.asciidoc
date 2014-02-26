@@ -1,7 +1,14 @@
 i3 Berlin Frame:
 ---------------
 
-The Frame is made of 6mm Aluminium or Acryl and can be Lasercut or Milled, there are some holes +
+The Frame is made of 6mm AlMgSi1 and should be Milled. The file is optimized for
+a 10mm mill, but the tool should be changed for smaller radii. 
+
+Holes
+
+
+
+ there are some holes +
 that don't pass all the way through to hold the y linear rods. Further there are threaded and non +
 threaded holes, the table below explains the differences by color. +
 
@@ -12,16 +19,24 @@ threaded holes, the table below explains the differences by color. +
 |Color |Diameter |Threaded |Thruehole | Notes
 
 |Green | M3 | yes | yes |
-threded holes to screw parts on
+M3 Threaded holes
 
 |Red | 8mm | no | no | 
-this hole is 5mm depp and holds the Y smoth rods
+These holes are 5mm deep and hold the Y linear rods
+
+|Red | 4mm | no | no |
+These holes are for holding the idler of the extruder
 
 |Magenta | 3.5mm | no | yes |
-unthreade holes to screw parts on / some to fix cable trees
+Plain 3.5 mm holes.
+
+|Blue | 3.5 | no | yes |
+Countersunk holes. Counter sunk diameter is 6.3mm, depth is 1mm. Note that the countersunk holes of the extruder front plates are from the other side.
 
 |Black | none | no | yes |
-this is the frame outline, so cut it all, consists of 4 seperate parts
+Contour lines of the aluminium parts. 
 
 5+^| image:i3_berlin_frame.png[width="80%"]
 |=========================================================
+
+image:i3_berlin_frame_holes.png
