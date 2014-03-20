@@ -25,7 +25,8 @@
 
 // This determines the communication speed of the printer
 // This determines the communication speed of the printer
-#define BAUDRATE 250000
+//#define BAUDRATE 250000
+#define BAUDRATE 115200
 
 // This enables the serial port associated to the Bluetooth interface
 //#define BTENABLED              // Enable BT interface on AT90USB devices
@@ -172,10 +173,14 @@
 
 // If you are using a preconfigured hotend then you can use one of the value sets by uncommenting it
 // E3D Full Metall Hotend
-    #define  DEFAULT_Kp 18.13
-    #define  DEFAULT_Ki 1.29
-    #define  DEFAULT_Kd 63.55
+    #define  DEFAULT_Kp 13.18
+    #define  DEFAULT_Ki 0.73
+    #define  DEFAULT_Kd 65.37
 
+//    #define  DEFAULT_Kp 18.13
+//    #define  DEFAULT_Ki 1.29
+//    #define  DEFAULT_Kd 63.55
+//
 // Ultimaker
 //    #define  DEFAULT_Kp 22.2
 //    #define  DEFAULT_Ki 1.08
@@ -390,8 +395,8 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 
 //Manual homing switch locations:
 // For deltabots this means top and center of the cartesian print volume.
-#define MANUAL_X_HOME_POS -36.1
-#define MANUAL_Y_HOME_POS -35.5
+#define MANUAL_X_HOME_POS -30
+#define MANUAL_Y_HOME_POS -10
 #define MANUAL_Z_HOME_POS 0
 //#define MANUAL_Z_HOME_POS 402 // For delta: Distance between nozzle and print surface after homing.
 
@@ -402,7 +407,7 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 // default settings
 
 #define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,(200.0*16/0.8),157.5}  // default steps per unit for i3 Berlin
-#define DEFAULT_MAX_FEEDRATE          {500, 500, 2, 6}    // (mm/sec) 
+#define DEFAULT_MAX_FEEDRATE          {500, 500, 2, 50}    // (mm/sec) 
 #define DEFAULT_MAX_ACCELERATION      {9000,9000,100,10000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for skeinforge 40+, for older versions raise them a lot.
 
 #define DEFAULT_ACCELERATION          3000    // X, Y, Z and E max acceleration in mm/s^2 for printing moves
