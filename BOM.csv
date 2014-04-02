@@ -1,48 +1,48 @@
 Section,Part,QTY,Description,Reseller,Product URL,Unit Price,Total
 Bearings,624ZZ,4,624ZZ Bearing,RepRapWorld,http://tinyurl.com/n3yo32w,0.25,1.0
-Bearings,LM8UU,11,LM8UU Linear Bearing,RepRapWorld,http://tinyurl.com/ltk6r5c,1.0,11.0
-,,,,,,Sub Total,12.0
-Cables and Electronics,Ferrule Black,11,"Aderendhülse 1,5 mm Schwarz",NetShopPro,http://tinyurl.com/krf5ywk,0.1,1.1
+Bearings,LM8UU,10,LM8UU Linear Bearing,RepRapWorld,http://tinyurl.com/ltk6r5c,1.0,10.0
+,,,,,,Sub Total,11.0
+Cables and Electronics,Ferrule Black,15,"Aderendhülse 1,5 mm Schwarz",NetShopPro,http://tinyurl.com/krf5ywk,0.1,1.5
 Cables and Electronics,Ferrule White,2,"Aderendhülse 0,5mm Weiß",NetShopPro,http://tinyurl.com/mjp4p7z,0.75,1.5
+Cables and Electronics,GLCD,1,Full Graphic LCD Controller,Fabber Parts,http://tinyurl.com/k24bzmr,49.0,49.0
 Cables and Electronics,Hall-O-Endstop,3,Hall-O Endstop,Fabber Parts,http://tinyurl.com/k8jmkm9,2.95,8.85
 Cables and Electronics,HeatBed Mk2a,1,HeatBed Mk2B,Fabber Parts,http://tinyurl.com/mlfo5hg,28.9,28.9
 Cables and Electronics,HeatBedThermistor,1,Heat Bed Thermistor 100K,Fabber Parts,http://tinyurl.com/mlfo5hg,0.0,0.0
 Cables and Electronics,HeatCardridge,1,Heat Cardridge 12V 30W,2Engineers,http://tinyurl.com/cg3qnkp,3.5,3.5
-Cables and Electronics,LCD,1,Full Graphic LCD Controller,Fabber Parts,http://tinyurl.com/k24bzmr,49.0,49.0
 Cables and Electronics,Ledpowersupply,1,LED Power Supply 350W,Ebay,http://tinyurl.com/jwg2yzw,24.99,24.99
-,,,,,,Sub Total,117.84
+Cables and Electronics,PowerConnector,1,Power Connector,Conrad,http://tinyurl.com/3sp0,0.0,0.0
+,,,,,,Sub Total,118.24
 Extruder,Thermistor Nozzle,1,Glass Thermistor 100K,2Engineers,http://tinyurl.com/a2o44m5,0.0,0.0
 ,,,,,,Sub Total,0.0
-Frame,AluFront,1,Aluminium Front Plate,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Frame,Aluminium BackPlate,1,Aluminium Back Plate,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Frame,XZ-Plate,1,Plate XZ,Laydrop,http://tinyurl.com/lp52kfw,120.0,120.0
-Frame,Y-Plate,1,Y-Plate,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Frame,Y-BackPlate,1,Aluminium Back Plate,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Frame,Y-Carriage,1,Y-Plate,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Frame,Y-FrontPlate,1,Aluminium Front Plate,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 ,,,,,,Sub Total,120.0
-Motion,Motor-Y,1,Nema 17 Stepper Motor,RepRapWorld,http://tinyurl.com/6wbap44,15.12,15.12
-Motion,Nema17,5,Nema 17 Stepper Motor,RepRapWorld,http://tinyurl.com/6wbap44,15.12,75.6
+Motion,Nema17,6,Nema 17 Stepper Motor,RepRapWorld,http://tinyurl.com/6wbap44,15.12,90.72
 Motion,PulleyGT2-20,2,Pulley GT2 20 Teeth Aluminium,Fabber Parts,http://tinyurl.com/mbntaaf,2.9,5.8
 Motion,TimingBeltGT2 X,1,GT2 Timing Belt 6mm x 836mm,Fabber Parts,http://tinyurl.com/m95x6sz,8.9,8.9
 Motion,TimingBeltGT2 Y,1,GT2 Timing Belt 6mm x 728mm,Fabber Parts,http://tinyurl.com/knnc3rc,8.9,8.9
 ,,,,,,Sub Total,114.32
+Nuts and Bolts,CounterSunk M3 x 10,10,"DIN 7991 M3 x 10 Stahl 8,8 Verzinkt",Wegert Seder,http://tinyurl.com/mlpz2ww,0.05,0.5
+Nuts and Bolts,CounterSunk M3 x 12,6,"DIN 7991 M3 x 12 Stahl 8,8 Verzinkt ",Wegert Seder,http://tinyurl.com/3sp0,0.05,0.3
+Nuts and Bolts,CounterSunk M3 x 20 ,6,"DIN 7991 M3 x 20 Stahl 8,8 Verzinkt ",Wegert Seder,http://tinyurl.com/3sp0,0.05,0.3
 Nuts and Bolts,M10 Flange Nut,2,M10 DIN 6923 Galvanized,Wegert Seder,http://tinyurl.com/mlpz2ww,1.01,2.02
 Nuts and Bolts,M10 Nut,12,DIN 934 M10 Stahl 8 Galvanized,Wegert Seder,http://tinyurl.com/mlpz2ww,0.32,3.84
+Nuts and Bolts,M10 SpringWasher ,8,DIN 127 B10 Federstahl Verzinkt ,Wegert Seder,http://tinyurl.com/mlpz2ww,0.37,2.96
 Nuts and Bolts,M10 Washer ,8,DIN 125 A10.5 Stahl Verzinkt ,Wegert Seder,http://tinyurl.com/mlpz2ww,0.35,2.8
-Nuts and Bolts,M3 Nyloc,8,DIN 986 M3 Stahl8 Verzinkt,Wegert Seder,http://tinyurl.com/mlpz2ww,0.05,0.4
+Nuts and Bolts,M3 LockNut,8,DIN 986 M3 Stahl8 Verzinkt,Wegert Seder,http://tinyurl.com/mlpz2ww,0.05,0.4
 Nuts and Bolts,M3 Washer,5,"DIN 125 A3,2 Stahl Verzinkt",Wegert Seder,http://tinyurl.com/mlpz2ww,0.1,0.5
-Nuts and Bolts,M3 x 10,14,"DIN 912 M3 x 10 Stahl 8,8 Verzinkt",Wegert Seder,http://tinyurl.com/mlpz2ww,0.05,0.7
-Nuts and Bolts,M3 x 10 CounterSunk,10,"DIN 7991 M3 x 10 Stahl 8,8 Verzinkt",Wegert Seder,http://tinyurl.com/mlpz2ww,0.05,0.5
-Nuts and Bolts,M3 x 12 Counter Sunk,6,"DIN 7991 M3 x 12 Stahl 8,8 Verzinkt ",Wegert Seder,http://tinyurl.com/3sp0,0.05,0.3
-Nuts and Bolts,M3 x 16,3,DIN 912 M3 x 16 Stahl 8.8 Verzinkt,Wegert Seder,http://tinyurl.com/mlpz2ww,0.1,0.3
+Nuts and Bolts,M3 x 10,13,"DIN 912 M3 x 10 Stahl 8,8 Verzinkt",Wegert Seder,http://tinyurl.com/mlpz2ww,0.05,0.65
+Nuts and Bolts,M3 x 16,4,DIN 912 M3 x 16 Stahl 8.8 Verzinkt,Wegert Seder,http://tinyurl.com/mlpz2ww,0.1,0.4
 Nuts and Bolts,M3 x 20,2,DIN 912 M3 x 20 Stahl 8.8 Verzinkt,Wegert Seder,http://tinyurl.com/3sp0,0.05,0.1
-Nuts and Bolts,M3 x 20 Count Sunk,6,"DIN 7991 M3 x 20 Stahl 8,8 Verzinkt ",Wegert Seder,http://tinyurl.com/3sp0,0.05,0.3
 Nuts and Bolts,M3 x 25,3,DIN 912 M3 x 25 Stahl 8.8 Verzinkt,Wegert Seder,http://tinyurl.com/mlpz2ww,0.1,0.3
 Nuts and Bolts,M3 x 40,2,"DIN 912 M3 x 40 Stahl 8,8 Verzinkt",Wegert Seder,http://tinyurl.com/3sp0,0.1,0.2
 Nuts and Bolts,M4 x 10,6,DIN 912 M4 x 10 Stahl 8.8 Verzinkt,Wegert Seder,http://tinyurl.com/3sp0,0.3,1.8
-Nuts and Bolts,Rampa RTL 036113,4,Round Nut RTL 036113,Rampa,http://tinyurl.com/loo9dys,6.2,24.8
-Nuts and Bolts,Spring Washer M10,8,DIN 127 B10 Federstahl Verzinkt ,Wegert Seder,http://tinyurl.com/mlpz2ww,0.37,2.96
+Nuts and Bolts,RoundNut,4,Round Nut RTL 036113,Rampa,http://tinyurl.com/loo9dys,6.2,24.8
 Nuts and Bolts,Torx 3 x 10,18,Torx 3 x 10,PTS,http://tinyurl.com/pbycc5q,0.1,1.8
 Nuts and Bolts,Torx 3 x 16,4,Torx 3 x 16,PTS,http://tinyurl.com/pbycc5q,0.1,0.4
-,,,,,,Sub Total,44.02
+,,,,,,Sub Total,44.07
 Other,Ikea Mirror,1,Ikea Sörli,Ikea,http://tinyurl.com/alst8j8,4.99,4.99
 Other,Mauly,4,Mauly Paper Clamp 30mm,Office B2B,http://tinyurl.com/kuc5s7z,0.69,2.76
 Other,Spring,3,Spring 		RDF-1363,Schweizer FedernTechnik,http://tinyurl.com/mrcpu9r,2.84,8.52
@@ -50,33 +50,50 @@ Other,ThermistorSilicon,1,Heat Risistant Silicon,Ebay,http://tinyurl.com/lnh4or4
 Other,Z Motor Coupler,2,PVC Hose 5mm Green,Bauhaus,http://tinyurl.com/3sp0,0.2,0.4
 Other,ZipTie,3,"Ziptie 2,5mm x 100mm Black",Conrad,http://tinyurl.com/lx54cnn,0.1,0.3
 ,,,,,,Sub Total,21.96
-Printed Parts,270 XMotor,2,XMotor,Laydrop,http://tinyurl.com/lp52kfw,120.0,240.0
-Printed Parts,276 CableHolderBackPlate,1,CableHolderBackPlate,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,277 Y-FrontLeft,1,Y-FrontLeft,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,278 Y-FrontRight,1,Y-FrontRight,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,279 Y-MiddleLeft,1,Y-MiddleLeft,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,280 Y-MiddleRight,1,Y-MiddleRight,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,286 Z-BottomLeft,1,Z-BottomLeft,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,287 Z-BottomRight,1,Z-BottomRight,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,288 Z-TopLeft,1,Z-TopLeft,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,289 Z-TopRight,1,Z-TopRight,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,290 Z-EndStopMount,1,Z-EndStopMount,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,291 AdjustKnob,3,Adjust Knob,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,292 BeltGuiding,4,Belt Guiding,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,293 DisplayCover,1,Display Cover,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,295 I3 Spool Holder,1,I3 Spool Holder,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,296 M5 Top,2,M5 Top,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,297 Power Supply Cover,1,Power Supply Cover,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,AdjustKnob,3,Adjust Knob,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,BeltGuidingDisc,4,Belt Guiding Disc,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,CableHolder,2,Cable Holder,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,CableHolderBackPlate,1,Cable Holder Back Plate,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,DisplayCover,1,Display Cover,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Printed Parts,EndstopCover,3,EndStop Cover,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,X Beltholder,2,Y-Beltholder,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,Y-BackLeft,1,Y Back Right Corner,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Extruder Fan Holder,1,Extruder Fan Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,Extruder-ActiveCoolerDuct,1,Extruder Active Cooling Duct,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,Extruder-Center,1,Extruder Center Piece,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,Extruder-FanHolder,1,Extruder Fan Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,Extruder-LeftFanHolder,1,Extruder Left Fan Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,Extruder-RightFanHolder,1,Extruder Right Fan Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,PowerConnectorCover,2,Power Connector Cover,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,PowerSupplyCover,1,Power Supply Cover,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Rumba-CaseBottom,1,RUMBA Case Bottom,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,Rumba-CaseLid,1,RUMBA Case Lid,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,SpoolHolderLong,1,Spool Holder Long,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,X-Carriage,1,X Carriage,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,X-Idler,1,X Idler,Laydrop,http://tinyurl.com/lp52kfw,120.0,120.0
+Printed Parts,X-Motor,1,X Motor Holder,Laydrop,http://tinyurl.com/lp52kfw,120.0,120.0
+Printed Parts,X-NutLeft,1,X Nut Left,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,X-NutRight,1,X Nut Right,Laydrop,http://tinyurl.com/3sp0,-0.03,-0.03
+Printed Parts,X-Teeth,1,X Belt Holder Teeth,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,X-Teeth Print,1,Y-Beltholder,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Y-BackLeft,1,Y Back Left Corner,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Y-FrontLeft,1,Y-FrontLeft,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Y-FrontRight,1,Y-FrontRight,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Y-HeightAdjuster,1,Y Height Adjuster,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,Y-MiddleLeft,1,Y-MiddleLeft,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Y-MiddleRight,1,Y-Middle Right,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Y-MotorHolder,1,Y Motor Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
 Printed Parts,Y-Teeth,1,Y-Beltholder,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-,,,,,,Sub Total,240.0
+Printed Parts,Z-BottomLeft,1,Z Bottom Left Motor Holder,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Z-BottomRight,1,Z Bottom Right Motor Holder,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Z-EndStopMount,1,Z EndStop Mount,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Z-M5Top,2,M5 Top,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Z-TopLeft,1,Z Top Left Corner,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Z-TopRight,1,Z Top Right Corner,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+,,,,,,Sub Total,239.97
 Rods,8 x 320,2,8 x 320 Smooth Rod 1.2210 - 115 Cr V 3,CNC Shop,http://tinyurl.com/k2zrghk,5.28,10.56
 Rods,8 x 343,1,8 x 343 Smooth Rod 1.2210 - 115 Cr V 3,CNC Shop,http://tinyurl.com/k7njnee,5.28,5.28
-Rods,8 x 380,2,8 x 380 Smooth Rod 1.2210 - 115 Cr V 3,CNC Shop,http://tinyurl.com/k2zrghk,5.28,10.56
+Rods,8 x 385,2,8 x 380 Smooth Rod 1.2210 - 115 Cr V 3,CNC Shop,http://tinyurl.com/k2zrghk,5.28,10.56
 Rods,8 x 425,1,8 x 425 Smooth Rod 1.2210 - 115 Cr V 3,CNC Shop,http://tinyurl.com/k7njnee,6.6,6.6
 Rods,M10 x 380,2,M10 x 380 Steel Galvanized,Wegert Seder,http://tinyurl.com/3sp0,0.7,1.4
 Rods,M5x310,2,M5 x 310 Threaded Rod A2 Stainless steel,Bauhaus,http://tinyurl.com/3sp0,0.9,1.8
 ,,,,,,Sub Total,36.2
-,,,,,,Total,706.34
+,,,,,,Total,705.76
