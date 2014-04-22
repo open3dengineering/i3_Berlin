@@ -2,16 +2,17 @@ Section,Part,QTY,Description,Reseller,Product URL,Unit Price,Total
 Bearings,624ZZ,4,624ZZ Bearing,RepRapWorld,http://tinyurl.com/n3yo32w,0.25,1.0
 Bearings,LM8UU,10,LM8UU Linear Bearing,RepRapWorld,http://tinyurl.com/ltk6r5c,1.0,10.0
 ,,,,,,Sub Total,11.0
-Cables and Electronics,Ferrule Black,15,"Aderendhülse 1,5 mm Schwarz",NetShopPro,http://tinyurl.com/krf5ywk,0.1,1.5
+Cables and Electronics,Ferrule Black,12,"Aderendhülse 1,5 mm Schwarz",NetShopPro,http://tinyurl.com/krf5ywk,0.1,1.2
+Cables and Electronics,Ferrule Red,3,"Aderendhülse 1,5 mm Schwarz",NetShopPro,http://tinyurl.com/krf5ywk,0.1,0.3
 Cables and Electronics,Ferrule White,2,"Aderendhülse 0,5mm Weiß",NetShopPro,http://tinyurl.com/mjp4p7z,0.75,1.5
 Cables and Electronics,GLCD,1,Full Graphic LCD Controller,Fabber Parts,http://tinyurl.com/k24bzmr,49.0,49.0
 Cables and Electronics,Hall-O-Endstop,3,Hall-O Endstop,Fabber Parts,http://tinyurl.com/k8jmkm9,2.95,8.85
 Cables and Electronics,HeatBed Mk2a,1,HeatBed Mk2B,Fabber Parts,http://tinyurl.com/mlfo5hg,28.9,28.9
 Cables and Electronics,HeatBedThermistor,1,Heat Bed Thermistor 100K,Fabber Parts,http://tinyurl.com/mlfo5hg,0.0,0.0
 Cables and Electronics,HeatCardridge,1,Heat Cardridge 12V 30W,2Engineers,http://tinyurl.com/cg3qnkp,3.5,3.5
-Cables and Electronics,Ledpowersupply,1,LED Power Supply 350W,Ebay,http://tinyurl.com/jwg2yzw,24.99,24.99
-Cables and Electronics,PowerConnector,1,Power Connector,Conrad,http://tinyurl.com/3sp0,0.0,0.0
-,,,,,,Sub Total,118.24
+Cables and Electronics,Ledpowersupply,1,LED Power Supply 350W,Ebay,http://tinyurl.com/l3c8ggm,24.99,24.99
+Cables and Electronics,PowerConnector,1,Power Connector with Switch,Conrad,http://tinyurl.com/lylm36o,3.1,3.1
+,,,,,,Sub Total,121.34
 Extruder,Thermistor Nozzle,1,Glass Thermistor 100K,2Engineers,http://tinyurl.com/a2o44m5,0.0,0.0
 ,,,,,,Sub Total,0.0
 Frame,XZ-Plate,1,Plate XZ,Laydrop,http://tinyurl.com/lp52kfw,120.0,120.0
@@ -56,13 +57,11 @@ Printed Parts,CableHolder,2,Cable Holder,Laydrop,http://tinyurl.com/lp52kfw,0.0,
 Printed Parts,CableHolderBackPlate,1,Cable Holder Back Plate,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Printed Parts,DisplayCover,1,Display Cover,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Printed Parts,EndstopCover,3,EndStop Cover,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,Extruder Fan Holder,1,Extruder Fan Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
 Printed Parts,Extruder-ActiveCoolerDuct,1,Extruder Active Cooling Duct,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
 Printed Parts,Extruder-Center,1,Extruder Center Piece,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
-Printed Parts,Extruder-FanHolder,1,Extruder Fan Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
+Printed Parts,Extruder-Fan-Holder,2,Extruder Fan Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
 Printed Parts,Extruder-LeftFanHolder,1,Extruder Left Fan Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
 Printed Parts,Extruder-RightFanHolder,1,Extruder Right Fan Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
-Printed Parts,PowerConnectorCover,2,Power Connector Cover,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
 Printed Parts,PowerSupplyCover,1,Power Supply Cover,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Printed Parts,Rumba-CaseBottom,1,RUMBA Case Bottom,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
 Printed Parts,Rumba-CaseLid,1,RUMBA Case Lid,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
@@ -72,13 +71,12 @@ Printed Parts,X-Idler,1,X Idler,Laydrop,http://tinyurl.com/lp52kfw,120.0,120.0
 Printed Parts,X-Motor,1,X Motor Holder,Laydrop,http://tinyurl.com/lp52kfw,120.0,120.0
 Printed Parts,X-NutLeft,1,X Nut Left,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
 Printed Parts,X-NutRight,1,X Nut Right,Laydrop,http://tinyurl.com/3sp0,-0.03,-0.03
-Printed Parts,X-Teeth,1,X Belt Holder Teeth,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
-Printed Parts,X-Teeth Print,1,Y-Beltholder,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,X-Teeth,2,X Belt Holder Teeth,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Printed Parts,Y-BackLeft,1,Y Back Left Corner,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Printed Parts,Y-FrontLeft,1,Y-FrontLeft,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Printed Parts,Y-FrontRight,1,Y-FrontRight,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Printed Parts,Y-HeightAdjuster,1,Y Height Adjuster,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
-Printed Parts,Y-MiddleLeft,1,Y-MiddleLeft,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
+Printed Parts,Y-MiddleLeft,1,,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Printed Parts,Y-MiddleRight,1,Y-Middle Right,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
 Printed Parts,Y-MotorHolder,1,Y Motor Holder,Laydrop,http://tinyurl.com/3sp0,0.0,0.0
 Printed Parts,Y-Teeth,1,Y-Beltholder,Laydrop,http://tinyurl.com/lp52kfw,0.0,0.0
@@ -96,4 +94,4 @@ Rods,8 x 425,1,8 x 425 Smooth Rod 1.2210 - 115 Cr V 3,CNC Shop,http://tinyurl.co
 Rods,M10 x 380,2,M10 x 380 Steel Galvanized,Wegert Seder,http://tinyurl.com/3sp0,0.7,1.4
 Rods,M5x310,2,M5 x 310 Threaded Rod A2 Stainless steel,Bauhaus,http://tinyurl.com/3sp0,0.9,1.8
 ,,,,,,Sub Total,36.2
-,,,,,,Total,705.76
+,,,,,,Total,708.86
