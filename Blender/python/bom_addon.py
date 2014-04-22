@@ -110,10 +110,12 @@ def write_bom(self, context):
                 
     # get sections and fill them with objects and object values
     sections = get_sections(self, context)
+    scene = context.scene
     for sect in sections:
         if sect[1] != 'nosection':
-            for ob in _objects:
+            for ob in scene.objects:
                 name = ob.name.split('.')[0]
+                print(ob.users_scene)
                 if ob.type == 'MESH' and ob.bom_section == sect[1]:
        
                     objects[sect[1]][name]['Section'] = sect[1]
