@@ -24,6 +24,6 @@ Once started Kisslicer will write 4 new files in the directory the programm is l
      - _styles.ini
      - _supports.ini
 
-Now quit Kisslicer and all files in the /KISSlicerPresets folder into    
+Now quit Kisslicer and all files in the /KISSlicerProfile folder into    
 the folder the KISSlicer programm is located, if ask please overwrite all files.    
 If you start Kisslicer the next time it will have all oure Presets loaded.
