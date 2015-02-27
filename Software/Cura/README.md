@@ -11,7 +11,7 @@ Installation instructions.
 
 
 
-Please isntall at least Cura 13.11.2 on your Platform OS 
+Please install at least Cura 13.11.2 on your Platform OS 
        *Downlaod from [http://software.ultimaker.com/?show=all](http://software.ultimaker.com/?show=all)*
        
        - Cura_13.11.2.exe for Windows (XP/Vista/8)
@@ -25,4 +25,4 @@ Then copy all files in /CuraProfile to your coresponding settings folder, if you
       
        - Windows c:\Programm Files\Cura_13.11.2\Cura\  ( Programm Files (x86)??)
        - Linux /home/<user>/.cura/13.11.2/
-       - Mac /Users/<user>/.cura/13.11.2/ 	  
+       - Mac /Users/<user>/.cura/13.11.2/ or for newer versions e.g. /Users/<user>/Library/Application Support/Cura/15.02.1 	  
