@@ -402,12 +402,12 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 
 //// MOVEMENT SETTINGS
 #define NUM_AXIS 4 // The axis order in all axis related arrays is X, Y, Z, E
-#define HOMING_FEEDRATE {50*60, 50*60, 10*60, 0}  // set the homing speeds (mm/min)
+#define HOMING_FEEDRATE {50*60, 50*60, 5*60, 0}  // set the homing speeds (mm/min)
 
 // default settings
 
 #define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,(200.0*16/2),158}  // default steps per unit for i3 Berlin
-#define DEFAULT_MAX_FEEDRATE          {500, 500, 10, 50}    // (mm/sec) 
+#define DEFAULT_MAX_FEEDRATE          {500, 500, 5, 50}    // (mm/sec) 
 #define DEFAULT_MAX_ACCELERATION      {9000,9000,25,10000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for skeinforge 40+, for older versions raise them a lot.
 
 #define DEFAULT_ACCELERATION          250    // X, Y, Z and E max acceleration in mm/s^2 for printing moves
