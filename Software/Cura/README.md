@@ -11,7 +11,7 @@ Installation instructions.
 
 
 
-Please isntall at least Cura 14.09 on your Platform OS 
+Please install at least Cura 14.09 on your Platform OS 
        *Downlaod from [http://software.ultimaker.com/?show=all](http://software.ultimaker.com/?show=all)*
        
        - Cura_14.09.exe for Windows (XP/Vista/8)
